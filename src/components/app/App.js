@@ -28,7 +28,6 @@ const User = ({firstName, lastName, link}) => {
     </div>
   )
 }
-
 const App = () => {
   return (
     <>
